@@ -1,0 +1,18 @@
+#thirdDiv{
+width: 500px;
+height: 600px;
+background-color:violet;
+padding: 50px;
+border: 3px solid violet;
+}
+
+.divClass{
+
+}
+
+#SpanId{
+font-size: 18px;
+margin: 50px;
+
+
+}
